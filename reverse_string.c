@@ -9,6 +9,8 @@ int main()
 	int length = 0;
 	
 	int index;
+	
+	printf("Please enter the string\n");
 
 	scanf("%[^\n]", &name);
 
